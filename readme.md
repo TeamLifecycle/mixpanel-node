@@ -1,4 +1,4 @@
-Mixpanel-node
+Venn Mixpanel-node
 =============
 [![Build Status](https://travis-ci.org/mixpanel/mixpanel-node.svg?branch=master)](https://travis-ci.org/mixpanel/mixpanel-node)
 
